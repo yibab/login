@@ -1,0 +1,1 @@
+//static content like pictures or any css
